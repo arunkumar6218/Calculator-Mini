@@ -28,4 +28,4 @@ Start calculating
 
 ## 📸 Preview
 
-![Calculator Preview](Calculator Preview.png)
+![Calculator Preview](Calculator_Preview.png)
