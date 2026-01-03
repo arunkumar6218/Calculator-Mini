@@ -25,3 +25,7 @@ Open index.html in your browser to view the calculator.
 Clone the repository
 Open index.html in any web browser
 Start calculating
+
+## 📸 Preview
+
+![Calculator Preview](calculator_preview.png)
